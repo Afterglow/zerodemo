@@ -1,0 +1,7 @@
+{
+  "name": "testnode",
+  "chef_environment": "test",
+  "run_list": [
+    "recipe[apache2::default]"
+  ]
+}
